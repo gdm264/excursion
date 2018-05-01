@@ -1,18 +1,21 @@
 body {
-	background-color: black;
-	text-align: center;
+  background-color: black;
+  color: white;
+  font-family: "Verdana", sans-serif;
+  text-align: center;
+}
+
+.cta {
+  color: aquamarine;
+  font-size: 16px;
 }
 
 h1 {
-	color: white;
-	font-family: Verdana;
-	font-size: 50px;
-	font-weight: normal;
+  font-size: 50px;
+  font-weight: normal;
 }
 
-a {
-	color: Aquamarine;
-	font-family: Verdana;
-	font-size:16px;
-	font-weight: Normal;
+p {
+  color: gray;
+  font-size: 21px;
 }
