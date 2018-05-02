@@ -20,6 +20,10 @@ h2 {
 }
 
 p {
-  color: gray;
+    color: gray;
   font-size: 21px;
+}
+
+.footer {
+  text-align: right;
 }
