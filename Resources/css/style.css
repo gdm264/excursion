@@ -1,8 +1,8 @@
 body {
   background-color: black;
-  color: white;
-  font-family: "Verdana", sans-serif;
   text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: white;
 }
 
 .cta {
@@ -20,10 +20,10 @@ h2 {
 }
 
 p {
-    color: gray;
   font-size: 21px;
+  color: gray;
 }
 
 .footer {
   text-align: right;
-}
+} 
